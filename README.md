@@ -17,8 +17,6 @@ Skills: HTML / CSS / jQuery / WordPress
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmonowar&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devmonowar)  
-
 ![GitHub metrics](https://metrics.lecoq.io/devmonowar)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devmonowar)  
