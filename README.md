@@ -1,5 +1,3 @@
-![I am Web Developer]
-
 ### Hi there 👋, Hi, I'm Monowar Hossain
 #### I am WordPress developer.
 
