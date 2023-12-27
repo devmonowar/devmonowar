@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi, I'm Monowar Hossain
-#### I am WordPress developer.
-![I am WordPress developer.](https://devmonowar.com/wp-content/uploads/2023/03/monowar.png)
+#### I am a WordPress developer.
+![I am a WordPress developer.](https://devmonowar.com/wp-content/uploads/2023/03/monowar.png)
 
 
 Skills: Figma to WordPress, E-commerce
