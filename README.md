@@ -2,63 +2,70 @@
 
 ### WordPress Developer | WordPress Plugin Developer | PHP Developer
 
-I specialize in building custom WordPress plugins, themes, Elementor solutions, and modern WordPress applications using PHP, JavaScript, ACF, HTML, CSS, and Git.
+I build custom WordPress plugins, themes, Elementor solutions, and modern WordPress applications with a focus on clean, maintainable, and user-friendly code.
 
-I enjoy creating lightweight, maintainable, and user-friendly WordPress solutions while continuously learning and improving my development skills.
+📍 Dhaka, Bangladesh
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building WordPress plugins and developer tools
-- 🌱 Learning modern WordPress development and JavaScript
-- 💡 Interested in Plugin Development, Performance Optimization, Elementor and ACF
+- 🔭 Building WordPress plugins and developer tools
+- 🌱 Continuously learning modern WordPress development
+- 💡 Passionate about Plugin Development, Elementor, ACF and Performance Optimization
 - 💬 Ask me about WordPress, PHP, Elementor, ACF and Plugin Development
-- 📍 Dhaka, Bangladesh
 
 ---
 
 ## 🚀 Featured Projects
 
-### WordPress Plugins
+### Plugins
 
-- ⭐ General Slider
-- ⭐ Advanced Testimonial
-- ⭐ Free Widgets For Elementor
-- ⭐ Unused Image Cleaner
+- 🔹 **General Slider**  
+  https://github.com/devmonowar/general-slider
 
-### WordPress Theme
+- 🔹 **Advanced Testimonial**  
+  https://github.com/devmonowar/advanced-testimonial
 
-- 🎨 Portolite
+- 🔹 **Free Widgets For Elementor**  
+  https://github.com/devmonowar/free-widgets-for-elementor
 
-### Demo
+- 🔹 **Unused Image Cleaner** *(In Development)*  
+  https://github.com/devmonowar/unused-image-cleaner
 
-- 📚 WordPress Plugin Demo Library
+### Theme
+
+- 🎨 **Portolite**  
+  https://github.com/devmonowar/portolite
+
+### Demo Library
+
+- 📚 https://devmonowar.github.io/wp-plugin-demo-library/
+
+---
+
+## 🌐 WordPress.org
+
+Profile
+
+https://profiles.wordpress.org/kstmonowar/
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-
-- PHP
 - WordPress
-
-**Frontend**
-
+- PHP
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-
-**Tools**
-
-- Git
 - Elementor
 - Advanced Custom Fields (ACF)
+- Git
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=devmonowar&show_icons=true&hide_border=true)
 
@@ -66,11 +73,11 @@ I enjoy creating lightweight, maintainable, and user-friendly WordPress solution
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect
 
 - GitHub: https://github.com/devmonowar
-- WordPress.org: https://profiles.wordpress.org/kstmonowar
 - LinkedIn: https://linkedin.com/in/devmonowar
+- WordPress.org: https://profiles.wordpress.org/kstmonowar/
 - Facebook: https://facebook.com/kstmonowar
 
 ---
@@ -84,4 +91,4 @@ I enjoy creating lightweight, maintainable, and user-friendly WordPress solution
 
 ---
 
-> Building clean, maintainable and user-friendly WordPress solutions.
+> Building reliable WordPress solutions with clean code and practical user experience.
