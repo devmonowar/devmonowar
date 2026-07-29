@@ -65,12 +65,12 @@ https://profiles.wordpress.org/kstmonowar/
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=devmonowar&show_icons=true&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmonowar&layout=compact&hide_border=true)
-
+- Building high-quality WordPress plugins
+- Creating reusable developer tools
+- Improving WordPress performance
+- Writing clean and maintainable code
 ---
 
 ## 🤝 Connect
@@ -79,16 +79,7 @@ https://profiles.wordpress.org/kstmonowar/
 - LinkedIn: https://linkedin.com/in/devmonowar
 - WordPress.org: https://profiles.wordpress.org/kstmonowar/
 - Facebook: https://facebook.com/kstmonowar
-
----
-
-## 🎯 Current Focus
-
-- Building high-quality WordPress plugins
-- Creating reusable developer tools
-- Improving WordPress performance
-- Writing clean and maintainable code
-
+ 
 ---
 
 > Building reliable WordPress solutions with clean code and practical user experience.
