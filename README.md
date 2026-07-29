@@ -10,11 +10,11 @@ I enjoy creating lightweight, maintainable, and user-friendly WordPress solution
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building WordPress plugins and developer tools
-- 🌱 Learning modern WordPress development and JavaScript
-- 💡 Interested in Plugin Development, Performance Optimization, Elementor and ACF
-- 💬 Ask me about WordPress, PHP, Elementor, ACF and Plugin Development
-- 📍 Dhaka, Bangladesh
+ 🔭 Currently building WordPress plugins and developer tools
+ 🌱 Learning modern WordPress development and JavaScript
+ 💡 Interested in Plugin Development, Performance Optimization, Elementor and ACF
+ 💬 Ask me about WordPress, PHP, Elementor, ACF and Plugin Development
+ 📍 Dhaka, Bangladesh
 
 ---
 
