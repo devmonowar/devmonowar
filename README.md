@@ -1,6 +1,6 @@
 # Hi, I'm Monowar Hossain 👋
 
-### WordPress Developer | WordPress Plugin Developer | PHP Developer
+### WordPress Developer | WordPress Plugin Developer | PHP Developer | Open Source Contributor
 
 I build custom WordPress plugins, themes, Elementor solutions, and modern WordPress applications with a focus on clean, maintainable, and user-friendly code.
 
