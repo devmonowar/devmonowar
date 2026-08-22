@@ -20,8 +20,9 @@ sites every day. I write the code, the documentation, and I answer the support q
 
 ### Demo library
 
-📚 **[Try every widget before installing](https://devmonowar.github.io/wp-plugin-demo-library/)** —
-one shared demo library that every plugin's Demo Library screen fetches from.
+📚 **[See every ready-made demo](https://devmonowar.github.io/wp-plugin-demo-library/)** — one shared
+demo library that every plugin's Demo Library screen fetches from. A screenshot and a description
+of each demo, so you know what you are importing before you import it.
 
 ---
 
