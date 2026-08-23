@@ -61,7 +61,7 @@ WordPress · PHP · JavaScript · HTML · CSS · Elementor · Advanced Custom Fi
 - ▶️ YouTube — https://www.youtube.com/@devmonowar
 - 👤 Gravatar — https://gravatar.com/monowarhossaindev
 - 👥 Facebook — https://www.facebook.com/kstmonowar
-- ✉️ Email — kstmonowar@gmail.com
+- ✉️ Email — devmonowar@gmail.com
 
 ---
 
